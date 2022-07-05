@@ -278,7 +278,7 @@ i {
     height: 100px;
     width: 100px;
     box-shadow: 0 2px 5px rgb(96, 95, 95);
-    background: url(/images/testimonials-2.jpg);
+    background: url(./images/testimonials-2.jpg);
     background-size: cover;
     border-radius: 100%;
 }
