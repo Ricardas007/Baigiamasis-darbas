@@ -230,7 +230,7 @@ i {
 .img-2 {
     width: 500px;
     height: 300px;
-    background: url(/images/bg-showcase-2.jpg);
+    background: url(images/bg-showcase-2.jpg);
     background-size: cover;
 }
 
